@@ -1,0 +1,14 @@
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.AssemblyInfoInputs.cache
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.AssemblyInfo.cs
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.csproj.CoreCompileInputs.cache
+D:\Project\behsa bootcamp\PolygonTriangulation\bin\Debug\net8.0\PolygonTriangulation.exe
+D:\Project\behsa bootcamp\PolygonTriangulation\bin\Debug\net8.0\PolygonTriangulation.deps.json
+D:\Project\behsa bootcamp\PolygonTriangulation\bin\Debug\net8.0\PolygonTriangulation.runtimeconfig.json
+D:\Project\behsa bootcamp\PolygonTriangulation\bin\Debug\net8.0\PolygonTriangulation.dll
+D:\Project\behsa bootcamp\PolygonTriangulation\bin\Debug\net8.0\PolygonTriangulation.pdb
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.dll
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\refint\PolygonTriangulation.dll
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.pdb
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.genruntimeconfig.cache
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\ref\PolygonTriangulation.dll
