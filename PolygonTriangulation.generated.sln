@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolygonTriangulation", "PolygonTriangulation.csproj", "{EFF46A21-5DA8-4DF7-BC99-5F5F27C05869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolygonTriangulation", "PolygonTriangulation.csproj", "{ADD1DC17-BEF0-4C03-B7B9-63E69C3DFA15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFF46A21-5DA8-4DF7-BC99-5F5F27C05869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFF46A21-5DA8-4DF7-BC99-5F5F27C05869}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFF46A21-5DA8-4DF7-BC99-5F5F27C05869}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFF46A21-5DA8-4DF7-BC99-5F5F27C05869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD1DC17-BEF0-4C03-B7B9-63E69C3DFA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD1DC17-BEF0-4C03-B7B9-63E69C3DFA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD1DC17-BEF0-4C03-B7B9-63E69C3DFA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD1DC17-BEF0-4C03-B7B9-63E69C3DFA15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

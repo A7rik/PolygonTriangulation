@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolygonTriangulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38e23573ebef28353fd01949f73c8dd07f0f5a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolygonTriangulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolygonTriangulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

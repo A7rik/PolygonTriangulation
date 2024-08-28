@@ -10,7 +10,8 @@ namespace PolygonTriangulation
         public Polygon(List<Point> points)
         {
             Points = points;
-            Triangles = GeometryUtils.TriangulatePolygon(points);
+            // Triangles = GeometryUtils.TriangulatePolygon(points);
+            Triangles = Triangulation.TriangulatePolygon(points);
             foreach (var triangle in Triangles)
             {
                 AddShape(triangle);

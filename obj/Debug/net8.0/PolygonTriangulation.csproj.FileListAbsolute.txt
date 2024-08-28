@@ -12,3 +12,4 @@ D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\refint\PolygonTr
 D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.pdb
 D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.genruntimeconfig.cache
 D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\ref\PolygonTriangulation.dll
+D:\Project\behsa bootcamp\PolygonTriangulation\obj\Debug\net8.0\PolygonTriangulation.sourcelink.json
